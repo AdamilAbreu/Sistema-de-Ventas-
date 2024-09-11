@@ -1,0 +1,10 @@
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\bin\Debug\UsuariosNuevos.exe.config
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\bin\Debug\UsuariosNuevos.exe
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\bin\Debug\UsuariosNuevos.pdb
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\obj\Debug\UsuariosNuevos.csproj.AssemblyReference.cache
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\obj\Debug\UsuariosNuevos.Properties.Resources.resources
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\obj\Debug\UsuariosNuevos.UsuariosNew.resources
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\obj\Debug\UsuariosNuevos.csproj.GenerateResource.cache
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\obj\Debug\UsuariosNuevos.csproj.CoreCompileInputs.cache
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\obj\Debug\UsuariosNuevos.exe
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\obj\Debug\UsuariosNuevos.pdb

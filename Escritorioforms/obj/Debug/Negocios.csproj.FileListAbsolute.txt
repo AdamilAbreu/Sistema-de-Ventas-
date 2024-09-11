@@ -1,0 +1,17 @@
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Escritorioforms\bin\Debug\Escritorioforms.exe.config
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Escritorioforms\bin\Debug\Escritorioforms.exe
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Escritorioforms\bin\Debug\Escritorioforms.pdb
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Escritorioforms\bin\Debug\Consulta.dll
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Escritorioforms\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Escritorioforms\bin\Debug\Consulta.pdb
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Escritorioforms\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Escritorioforms\obj\Debug\Escritorioforms.View_Negocios.resources
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Escritorioforms\obj\Debug\Escritorioforms.Properties.Resources.resources
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Escritorioforms\obj\Debug\Negocios.csproj.GenerateResource.cache
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Escritorioforms\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Escritorioforms\obj\Debug\Negocios.csproj.Up2Date
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Escritorioforms\obj\Debug\Escritorioforms.exe
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Escritorioforms\obj\Debug\Escritorioforms.pdb
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Escritorioforms\bin\Debug\Factura.dll
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Escritorioforms\bin\Debug\Factura.pdb
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Escritorioforms\bin\Debug\FontAwesome.Sharp.dll

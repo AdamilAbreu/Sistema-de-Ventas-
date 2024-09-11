@@ -1,0 +1,16 @@
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\bin\Debug\UsuariosNuevos.exe.config
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\bin\Debug\UsuariosNuevos.exe
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\bin\Debug\UsuariosNuevos.pdb
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\bin\Debug\Consulta.dll
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\bin\Debug\Factura.dll
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\bin\Debug\Consulta.pdb
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\bin\Debug\Factura.pdb
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\obj\Debug\CreacionUsuarios.csproj.AssemblyReference.cache
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\obj\Debug\UsuariosNuevos.Properties.Resources.resources
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\obj\Debug\UsuariosNuevos.UsuariosNew.resources
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\obj\Debug\CreacionUsuarios.csproj.GenerateResource.cache
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\obj\Debug\CreacionUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\obj\Debug\Creacion.D6A3DBA7.Up2Date
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\obj\Debug\UsuariosNuevos.exe
+C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\UsuariosNuevos\obj\Debug\UsuariosNuevos.pdb
