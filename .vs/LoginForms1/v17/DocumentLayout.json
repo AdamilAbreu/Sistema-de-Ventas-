@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Ada\\Desktop\\C# Proyecto\\Proyectos\\LoginForms1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EC687AF8-40AB-43AE-8F1E-A0DAF24826AE}|LoginForms1\\LoginForms1.csproj|c:\\users\\ada\\desktop\\c# proyecto\\proyectos\\loginforms1\\loginforms1\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC687AF8-40AB-43AE-8F1E-A0DAF24826AE}|LoginForms1\\LoginForms1.csproj|solutionrelative:loginforms1\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FA7A65C5-5798-4079-BF1D-4957BB38DF73}|Escritorioforms\\View_User.csproj|c:\\users\\ada\\desktop\\c# proyecto\\proyectos\\loginforms1\\escritorioforms\\view_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA7A65C5-5798-4079-BF1D-4957BB38DF73}|Escritorioforms\\View_User.csproj|solutionrelative:escritorioforms\\view_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2983535-0A9F-4EAB-BEC5-0D9EEC7DC5A4}|Consulta\\Consulta.csproj|C:\\Users\\Ada\\Desktop\\C# Proyecto\\Proyectos\\LoginForms1\\Consulta\\ConsultaBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2983535-0A9F-4EAB-BEC5-0D9EEC7DC5A4}|Consulta\\Consulta.csproj|solutionrelative:Consulta\\ConsultaBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA7A65C5-5798-4079-BF1D-4957BB38DF73}|Escritorioforms\\View_User.csproj|C:\\Users\\Ada\\Desktop\\C# Proyecto\\Proyectos\\LoginForms1\\escritorioforms\\view_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA7A65C5-5798-4079-BF1D-4957BB38DF73}|Escritorioforms\\View_User.csproj|solutionrelative:escritorioforms\\view_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA7A65C5-5798-4079-BF1D-4957BB38DF73}|Escritorioforms\\View_User.csproj|c:\\users\\ada\\desktop\\c# proyecto\\proyectos\\loginforms1\\escritorioforms\\view_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FA7A65C5-5798-4079-BF1D-4957BB38DF73}|Escritorioforms\\View_User.csproj|solutionrelative:escritorioforms\\view_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2983535-0A9F-4EAB-BEC5-0D9EEC7DC5A4}|Consulta\\Consulta.csproj|C:\\Users\\Ada\\Desktop\\C# Proyecto\\Proyectos\\LoginForms1\\Consulta\\ConsultaBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2983535-0A9F-4EAB-BEC5-0D9EEC7DC5A4}|Consulta\\Consulta.csproj|solutionrelative:Consulta\\ConsultaBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +35,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LoginQuery.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ada\\Desktop\\C# Proyecto\\Proyectos\\LoginForms1\\LoginForms1\\LoginQuery.cs",
+              "RelativeDocumentMoniker": "LoginForms1\\LoginQuery.cs",
+              "ToolTip": "C:\\Users\\Ada\\Desktop\\C# Proyecto\\Proyectos\\LoginForms1\\LoginForms1\\LoginQuery.cs [Dise\u00F1o]",
+              "RelativeToolTip": "LoginForms1\\LoginQuery.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:54:55.4Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "View_User.cs",
               "DocumentMoniker": "C:\\Users\\Ada\\Desktop\\C# Proyecto\\Proyectos\\LoginForms1\\Escritorioforms\\View_User.cs",
               "RelativeDocumentMoniker": "Escritorioforms\\View_User.cs",
@@ -50,12 +66,11 @@
               "ToolTip": "C:\\Users\\Ada\\Desktop\\C# Proyecto\\Proyectos\\LoginForms1\\Escritorioforms\\View_User.cs [Dise\u00F1o]",
               "RelativeToolTip": "Escritorioforms\\View_User.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T08:01:15.631Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-09-11T08:01:15.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ConsultaBD.cs",
               "DocumentMoniker": "C:\\Users\\Ada\\Desktop\\C# Proyecto\\Proyectos\\LoginForms1\\Consulta\\ConsultaBD.cs",
               "RelativeDocumentMoniker": "Consulta\\ConsultaBD.cs",
@@ -63,8 +78,7 @@
               "RelativeToolTip": "Consulta\\ConsultaBD.cs",
               "ViewState": "AQIAANMBAAAAAAAAAAAswBYBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T18:01:22.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T18:01:22.919Z"
             }
           ]
         }
