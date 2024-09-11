@@ -10,3 +10,15 @@ C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Consulta\obj\Debug\Consu
 C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Consulta\obj\Debug\Consulta.csproj.Up2Date
 C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Consulta\obj\Debug\Consulta.dll
 C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Consulta\obj\Debug\Consulta.pdb
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\Consulta\bin\Debug\Consulta.dll
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\Consulta\bin\Debug\Consulta.pdb
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\Consulta\bin\Debug\Factura.dll
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\Consulta\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\Consulta\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\Consulta\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\Consulta\bin\Debug\Factura.pdb
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\Consulta\obj\Debug\Consulta.csproj.AssemblyReference.cache
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\Consulta\obj\Debug\Consulta.csproj.CoreCompileInputs.cache
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\Consulta\obj\Debug\Consulta.csproj.Up2Date
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\Consulta\obj\Debug\Consulta.dll
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\Consulta\obj\Debug\Consulta.pdb

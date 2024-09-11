@@ -16,6 +16,7 @@ namespace LoginForms1
 {
     public partial class LoginQuery : Form
     {
+        // Se crea una conexion a la base de datos Oracle. Se inicializa la conexion con los parametros de conexion.
         OracleConnection ora = new OracleConnection("DATA SOURCE = ORCLPDB; USER ID = ADAM; PASSWORD = 1234;");
          
         public LoginQuery()
@@ -26,8 +27,13 @@ namespace LoginForms1
         private void btnEntrar_Click(object sender, EventArgs e)
         {
             Login();
+            // Metodo que se ejecuta al hacer clic en el boton "Entrar". Llama al metodo Login.
         }
 
+        /*Metodo login que tiene como funcionalidad de confirmar que un usuario existe,
+        si existe entrara al sistema mediante las conexiones de la base de datos y
+        el try/catch que sirve para hacer mas segura la conexion a la base de datos.*/
+        
         public void Login()
         {
             if (string.IsNullOrEmpty(txtNombre.Text))

@@ -20,18 +20,21 @@ namespace User
     public partial class view_Negocios : Form
     {
         
-
+        ///se inicializa el datatable para el dataviewgrid.
         DataTable dt = new DataTable();
         
+        ///se instancia una clase para acceder a todos sus metodos.
         ConsultaBD consu = new ConsultaBD();
 
+
+        
         private double subTotal = 0;
         private double total = 0;
         private double descuento = 0;
 
         public view_Negocios()
         {
-            
+            //Se inicializa y con la palabra instanciada 'dt' se le agrega las columnas al dataviewgrid.
             InitializeComponent();
 
             txtVentaImpuest.Text = txtventas2.Text;
