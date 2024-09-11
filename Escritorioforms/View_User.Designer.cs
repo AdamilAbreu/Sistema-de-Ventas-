@@ -77,7 +77,7 @@
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Microsoft YaHei", 14.25F, System.Drawing.FontStyle.Bold);
-            this.button3.Location = new System.Drawing.Point(528, 150);
+            this.button3.Location = new System.Drawing.Point(528, 159);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(126, 45);
             this.button3.TabIndex = 4;
@@ -111,6 +111,7 @@
             // 
             // txtNombre
             // 
+            this.txtNombre.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Bold);
             this.txtNombre.Location = new System.Drawing.Point(158, 312);
             this.txtNombre.Multiline = true;
             this.txtNombre.Name = "txtNombre";
@@ -119,6 +120,7 @@
             // 
             // txtContrasena
             // 
+            this.txtContrasena.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Bold);
             this.txtContrasena.Location = new System.Drawing.Point(506, 307);
             this.txtContrasena.Multiline = true;
             this.txtContrasena.Name = "txtContrasena";

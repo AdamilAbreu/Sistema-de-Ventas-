@@ -8,6 +8,8 @@ namespace Factura
 {
     public class ClaseFactura
     {
+        //Encapsulacion de las variables, cada una con get y set.
+
         private string codigo = "";
         private string producto = "";
         private string precioUnidad = "";

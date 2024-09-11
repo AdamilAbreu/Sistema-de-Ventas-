@@ -27,15 +27,17 @@ namespace LoginForms1
         private void btnEntrar_Click(object sender, EventArgs e)
         {
             Login();
-            // Metodo que se ejecuta al hacer clic en el boton "Entrar". Llama al metodo Login.
+            // Metodo que se ejecuta al hacer clic en el boton "Entrar" llama al metodo Login.
         }
 
-        /*Metodo login que tiene como funcionalidad de confirmar que un usuario existe,
-        si existe entrara al sistema mediante las conexiones de la base de datos y
-        el try/catch que sirve para hacer mas segura la conexion a la base de datos.*/
+        
         
         public void Login()
         {
+            /*Metodo login que tiene como funcionalidad de confirmar que un usuario existe,
+            si existe entrara al sistema mediante las conexiones de la base de datos y
+            el try/catch que sirve para hacer mas segura su conexion.*/
+
             if (string.IsNullOrEmpty(txtNombre.Text))
             {
                 MessageBox.Show("FAVOR DE LLENAR EL CAMPO NOMBRE");

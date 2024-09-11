@@ -32,7 +32,9 @@ namespace InventarioView
 
         private void btnEliminar_Click(object sender, EventArgs e)
         {
-            // claseConsu.EliminarInventario(txtEliminar.Text);
+            //Llama al metodo 'eliminarinventario' se le pasa por parametros el textbox,
+            //luego hara una consulta mediante el dataviewgrid que se le esta asignando el metodo 'consultainventario'. 
+
             claseConsu.EliminarInventario(txtEliminar.Text);
 
             dataView.DataSource = claseConsu.ConsultaInventario();
@@ -50,7 +52,7 @@ namespace InventarioView
 
         private void btnIngresar_Click(object sender, EventArgs e)
         {
-            //Completar aqui
+            
             claseConsu.IngresarInventario(
                textProducto.Text.ToUpper(),
                textCategoria.Text.ToUpper(),

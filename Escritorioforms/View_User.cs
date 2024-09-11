@@ -25,15 +25,11 @@ namespace Escritorioforms
             Application.Exit(); 
         }
 
-       
-
-       
-
         public void button2_Click_1(object sender, EventArgs e)
         {
             ora.Insertar(
-                txtNombre.Text,
-                txtContrasena.Text);
+                txtNombre.Text.ToUpper(),
+                txtContrasena.Text.ToUpper());
            
             DataView.DataSource = ora.Consulta();
 
@@ -44,8 +40,8 @@ namespace Escritorioforms
         public void button3_Click(object sender, EventArgs e)
         {
             ora.Eliminar(
-                txtNombre.Text,
-                txtContrasena.Text);
+                txtNombre.Text.ToUpper(),
+                txtContrasena.Text.ToUpper());
 
             DataView.DataSource= ora.Consulta(); 
             
@@ -56,8 +52,8 @@ namespace Escritorioforms
         private void btnModifcar_Click(object sender, EventArgs e)
         {
             ora.Modificar(
-                txtContrasena.Text,
-                txtNombre.Text);
+                txtContrasena.Text.ToUpper(),
+                txtNombre.Text.ToUpper());
 
             DataView.DataSource = ora.Consulta();
             

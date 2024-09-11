@@ -34,7 +34,7 @@ namespace User
 
         public view_Negocios()
         {
-            //Se inicializa y con la palabra instanciada 'dt' se le agrega las columnas al dataviewgrid.
+            //Se inicializa y con la palabra instanciada 'dt' se le agrega las columnas al datagridview.
             InitializeComponent();
 
             txtVentaImpuest.Text = txtventas2.Text;
@@ -89,7 +89,7 @@ namespace User
         int cantidad = 0;
         public void button2_Click_1(object sender, EventArgs e)
         {
-            
+            //Se asegura de que los campos o textbox no esten vacios.
 
             if (string.IsNullOrWhiteSpace(txtCodigo_Producto.Text))
             {
@@ -99,7 +99,7 @@ namespace User
 
                 if(codigo >= 3)
                 {
-                    MessageBox.Show("LO SIENTO, HAS INTENTADO ENTRAR '"+ codigo + "' DE VECES: EL PROGRAMA SE CERRARA");
+                    MessageBox.Show("LO SIENTO, HAS INTENTADO '"+ codigo + "' DE VECES: EL PROGRAMA SE CERRARA");
                     Application.Exit(); 
                 }
 
@@ -111,7 +111,7 @@ namespace User
 
                 if(cantidad >= 3)
                 {
-                    MessageBox.Show("LO SIENTO, HAS INTENTADO ENTRAR '" + cantidad + "' DE VECES: EL PROGRAMA SE CERRARA");
+                    MessageBox.Show("LO SIENTO, HAS INTENTADO '" + cantidad + "' DE VECES: EL PROGRAMA SE CERRARA");
                     Application.Exit();
                 }
             }
@@ -149,6 +149,8 @@ namespace User
         
         public void btnFactura_Click(object sender, EventArgs e)
         {
+            // Se instancia factura de ClaseFactura para agregar las filas mediante de un ciclo foreach que recorre en dt.rows.
+
             ConsultaBD consu = new ConsultaBD();
 
             List<ClaseFactura> listfact = new List <ClaseFactura>();   
@@ -177,6 +179,8 @@ namespace User
 
 
             txtFactura.Text = Convert.ToString(consu.Id_Facturas());
+
+            //Se utiliza para poder imprimir un documento en una apicacion.
 
             printDocument1 = new PrintDocument();  
             PrinterSettings ps = new PrinterSettings();

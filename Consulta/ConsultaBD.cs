@@ -20,6 +20,7 @@ namespace Consulta
             DataTable data = new DataTable();
             try
             {
+                // Hace una consulta a la tabla usuarios.
 
                 con.Open();
                 string query = "SELECT * FROM ADAM.USUARIOS";
@@ -33,6 +34,8 @@ namespace Consulta
             {
                 MessageBox.Show("ERROR EN LA BASE DE DATOS: " + e.Message);
                 throw;
+
+                //Message informa mas claro y preciso el problema.
             }
             finally
             {
@@ -50,6 +53,9 @@ namespace Consulta
 
         public int  Insertar(string nombre, string contrasena)
         {
+            //Este metodo tiene como funcion agregar usuarios mediante nombre y contraseña,
+            //la funcion 'string.isnullorempty' asegura que el textbox no este vacio.
+
             if (string.IsNullOrEmpty(nombre))
             {
                 MessageBox.Show("FAVOR DE LLENAR EL CAMPO NOMBRE");
@@ -88,6 +94,7 @@ namespace Consulta
             {
                 if(con.State == ConnectionState.Open)
                 {
+                    //Si la conexion sigue abierta se cerrara con con.close().
                     con.Close();   
                 }  
             }
@@ -97,6 +104,9 @@ namespace Consulta
 
         public int Eliminar(string nombre, string contrasena)
         {
+
+            //Elimina usuarios.
+
             if (string.IsNullOrEmpty(nombre))
             {
 
@@ -185,6 +195,8 @@ namespace Consulta
 
         public int Id_Facturas()
         {
+            //Seleciona el maximo id de factura y se le suma 1.
+
             OracleConnection con = new OracleConnection("DATA SOURCE = ORCLPDB; USER ID = ADAM; PASSWORD = 1234;");
             int maxId = 0;
             try
@@ -225,26 +237,39 @@ namespace Consulta
         public Tuple<string, string> TuplaInventario(string id_Inventario)
         {
             OracleConnection con = new OracleConnection("DATA SOURCE = ORCLPDB; USER ID = ADAM; PASSWORD = 1234;");
-            con.Open();
-
             string producto;
             string precio;
-
-            string query = "SELECT * FROM ADAM.INVENTARIO WHERE ID_INVENTARIO = '" + id_Inventario + "'";
-            OracleCommand comando = new OracleCommand(query, con);
-            OracleDataReader reg = comando.ExecuteReader();
-
-            if (reg.Read())
+            try
             {
-                producto = reg["PRODUCTO"].ToString();
-                precio = reg["PRECIO"].ToString();
+                con.Open();
+                string query = "SELECT * FROM ADAM.INVENTARIO WHERE ID_INVENTARIO = '" + id_Inventario + "'";
+                OracleCommand comando = new OracleCommand(query, con);
+                OracleDataReader reg = comando.ExecuteReader();
 
-                con.Close();
+                if (reg.Read())
+                {
+                    producto = reg["PRODUCTO"].ToString();
+                    precio = reg["PRECIO"].ToString();
+
+                    con.Close();
+                }
+                else
+                {
+                    return Tuple.Create("Null", " PRODUCTO NO ENCONTRADO");
+
+                }
             }
-            else
+            catch (Exception e)
             {
-                return Tuple.Create("Null", " PRODUCTO NO ENCONTRADO");
-
+                MessageBox.Show("ERROR EN LA BASE DE DATOS: "+ e.Message);
+                throw;
+            }
+            finally
+            {
+                if(con.State == ConnectionState.Open)
+                {
+                    con.Close();
+                }
             }
             return Tuple.Create(producto, precio);
 

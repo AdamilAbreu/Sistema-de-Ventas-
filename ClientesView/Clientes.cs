@@ -19,10 +19,14 @@ namespace ClientesView
         public Clientes()
         {
             InitializeComponent();
+            // Al momento de la inicializacion se llama la funcion clienteconsulta para consultar los cliente y llenarlo mediante el dataviewgrid. 
             DataViewGrid.DataSource = ClienteConsulta();
         }
         public DataTable ClienteConsulta()
         {
+
+            // Hace una consulta a la tabla clientes.
+
             OracleConnection con = new OracleConnection("DATA SOURCE = ORCLPDB; USER ID = ADAM; PASSWORD = 1234;");
             DataTable dt = new DataTable();
             try

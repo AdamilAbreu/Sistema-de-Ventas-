@@ -6,3 +6,11 @@ C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Factura\obj\Debug\Factur
 C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Factura\obj\Debug\Factura.csproj.Up2Date
 C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Factura\obj\Debug\Factura.dll
 C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\Factura\obj\Debug\Factura.pdb
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\Factura\bin\Debug\Factura.dll
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\Factura\bin\Debug\Factura.pdb
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\Factura\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\Factura\obj\Debug\Factura.csproj.AssemblyReference.cache
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\Factura\obj\Debug\Factura.csproj.Up2Date
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\Factura\obj\Debug\Factura.dll
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\Factura\obj\Debug\Factura.pdb

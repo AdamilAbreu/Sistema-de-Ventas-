@@ -11,3 +11,16 @@ C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\ClientesView\obj\Debug\C
 C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\ClientesView\obj\Debug\Clientes.6CBB5912.Up2Date
 C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\ClientesView\obj\Debug\ClientesView.exe
 C:\Users\Ada\Desktop\C# Proyecto\New folder\LoginForms1\ClientesView\obj\Debug\ClientesView.pdb
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\ClientesView\bin\Debug\ClientesView.exe.config
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\ClientesView\bin\Debug\ClientesView.exe
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\ClientesView\bin\Debug\ClientesView.pdb
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\ClientesView\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\ClientesView\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\ClientesView\obj\Debug\ClientesView.csproj.AssemblyReference.cache
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\ClientesView\obj\Debug\ClientesView.Clientes.resources
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\ClientesView\obj\Debug\ClientesView.Properties.Resources.resources
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\ClientesView\obj\Debug\ClientesView.csproj.GenerateResource.cache
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\ClientesView\obj\Debug\ClientesView.csproj.CoreCompileInputs.cache
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\ClientesView\obj\Debug\Clientes.6CBB5912.Up2Date
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\ClientesView\obj\Debug\ClientesView.exe
+C:\Users\Ada\Desktop\C# Proyecto\Proyectos\LoginForms1\ClientesView\obj\Debug\ClientesView.pdb
